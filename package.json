@@ -1,5 +1,6 @@
 {
   "name": "counter",
+  "homepage": "https://pauloabdanur.github.io/Redux-Counter/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
